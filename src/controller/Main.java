@@ -30,7 +30,7 @@ public class Main {
             int option = scanner.nextInt();
             scanner.nextLine();  
 
-            switch (option) {
+            switch (option) { 
                 case 1:
                     
                     System.out.print("Enter Employee ID: ");
